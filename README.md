@@ -5,6 +5,12 @@ Solidity code to write smart contract deployed on remix ide and using javascript
 Screenshot :
 <img width="959" alt="image" src="https://github.com/NileshBarandwal/Solidity_BookMyHotel/assets/52256162/dc3b9b02-7713-4372-8943-0d8d3276da51">
 
+Explaining of architecture and code principles:
+
+src="https://habr.com/ru/articles/741798/">
+
+
+
 Working Video:
 
 

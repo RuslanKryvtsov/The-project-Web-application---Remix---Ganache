@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "express": "^4.19.2",
+    "fs": "^0.0.1-security",
+    "ganache-cli": "^6.12.2",
+    "truffle-provider": "^0.1.16",
+    "web3": "^4.8.0"
+  }
+}
